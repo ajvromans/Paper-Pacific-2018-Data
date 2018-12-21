@@ -3,7 +3,7 @@ This repository contains the data and programs of the paper [1].
 
 [1] A.J. Vromans, A. Muntean, A.A.F. van de Ven, A mixture theory-based concrete corrosion model coupling chemical reactions, diffusion and mechanics, (2018), Pacific Journal of Mathematics for Industry, 10:5. See link https://pacific-mathforindustry.springeropen.com/articles/10.1186/s40736-018-0039-6.
 
-The data has been produced by two different programs: The NewGypsum4 MATLAB code and a Parameters call-function. 
+The data has been produced by two different programs: The NewGypsum4 MATLAB code and a Parameters call-function. Note: NewGypsum4D simulates system D (the default in the paper), NewGypsum4P simulates system C and NewGypsum4 simulates system A.
 The .....  Mathematica code. 
 
 The .... Mathematica code was used to create the data and plots of Figures 11 and 12 of the paper.
